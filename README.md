@@ -1,2 +1,2 @@
 # new-repo
-new repo desdcription
+edited read me
